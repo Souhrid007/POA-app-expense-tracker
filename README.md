@@ -1,2 +1,3 @@
 # POA-app
-Personal Organisation App using flutter
+Expense Tracker of Personal Organisation app using flutter
+Check pubspec for dependencies.
